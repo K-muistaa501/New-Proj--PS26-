@@ -1,0 +1,33 @@
+.intro_wnd{
+    background-color: rgb(77, 129, 181);
+    height: 20px;
+    width: 155px;
+}
+.intro_wn2{
+    background-color: rgb(94, 158, 226);
+    height: 20px;
+    width: 150px;
+}
+.intro_pnl{
+    background-color: rgb(146, 255, 144);
+    height: 100px;
+    width: 150px;
+}
+.intro_ovr{
+    background-color: rgb(62, 117, 62);
+    height: 105px;
+    width: 155px;
+}
+
+#norm_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+#small_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+
+}
