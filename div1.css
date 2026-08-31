@@ -19,6 +19,17 @@
     height: 110px;
     width: 1210px;
 }
+/* content */
+.content_pnl{
+    background-color: rgb(146, 255, 144);
+    height: 1000px;
+    width: 1200px;
+}
+.content_ovr{
+    background-color: rgb(62, 117, 62);
+    height: 1010px;
+    width: 1210px;
+}
 /* links */
 .links_pnl{
     background-color: rgb(146, 255, 144);
@@ -46,7 +57,9 @@
 #link_text{
     font-family: Consolas, "Courier New", monospace;
     font-size: 25px;
-    color: rgb(0, 112, 238)
+    color: rgb(0, 112, 238);
+    text-align: center;
+    line-height: 10px;
 }
 #small_text{
     font-family: Consolas, "Courier New", monospace;
