@@ -30,6 +30,22 @@
     height: 1010px;
     width: 1210px;
 }
+/* about */
+.about_wnd{
+    background-color: rgb(126, 124, 240);
+    height: 20px;
+    width: 1200px;
+}
+.about_pnl{
+    background-color: rgb(146, 255, 144);
+    height: 1000px;
+    width: 1200px;
+}
+.about_ovr{
+    background-color: rgb(62, 117, 62);
+    height: 1010px;
+    width: 1210px;
+}
 /* links */
 .links_pnl{
     background-color: rgb(146, 255, 144);
@@ -41,6 +57,7 @@
     height: 110px;
     width: 1210px;
 }
+/* text */
 #title_text{
     font-family: Consolas, "Courier New", monospace;
     font-size: 30px;
@@ -60,6 +77,12 @@
     color: rgb(0, 112, 238);
     text-align: center;
     line-height: 10px;
+}
+#wndws_text{
+    font-family:  Consolas, "Courier New", monospace;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: right;
 }
 #small_text{
     font-family: Consolas, "Courier New", monospace;
