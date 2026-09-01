@@ -9,6 +9,11 @@
     width: 1210px;
 }
 /* intro */
+.intro_wnd{
+    background-color: rgb(126, 124, 240);
+    height: 20px;
+    width: 1200px;
+}
 .intro_pnl{
     background-color: rgb(146, 255, 144);
     height: 100px;
@@ -20,6 +25,11 @@
     width: 1210px;
 }
 /* content */
+.content_wnd{
+    background-color: rgb(126, 124, 240);
+    height: 35px;
+    width: 1200px;
+}
 .content_pnl{
     background-color: rgb(146, 255, 144);
     height: 1000px;
@@ -47,6 +57,11 @@
     width: 1210px;
 }
 /* links */
+.links_wnd{
+    background-color: rgb(126, 124, 240);
+    height: 20px;
+    width: 1200px;
+}
 .links_pnl{
     background-color: rgb(146, 255, 144);
     height: 100px;
@@ -68,7 +83,7 @@
     font-family: Consolas, "Courier New", monospace;
     font-size: 15px;
     color: rgb(0, 0, 0);
-    text-align: center;
+    text-align: left;
     line-height: 1.1px;
 }
 #link_text{
@@ -94,5 +109,10 @@
     font-family: Consolas, "Courier New", monospace;
     font-size: 5px;
     color: rgb(255, 255, 255);
+    text-align: center;
+}
+.my-custom-button {
+    background-color: rgb(100, 150, 215);
+    border: 1px solid rgb(0,0,0);
     text-align: center;
 }
